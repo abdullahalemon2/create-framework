@@ -3,9 +3,9 @@
 <br>
 tools to make viruses simple
 <br>
-$ git clone https://github.com/LOoLzeC/Evil-create-framework.git
+$ git clone https://github.com/abdullahalemon2/create-framework.git
 <br>
-$ cd Evil-create-framework
+$ cd create-framework
 <br>
 $ sh install.sh
 <br>
